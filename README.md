@@ -22,15 +22,11 @@ const gloria = {
 
 #### Top Repositories
 
-
 <a href="https://github.com/capdavide278/Deliveboo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy" />
 </a>
 <a href="https://github.com/gloriaghe/html-css-spotifyweb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb&theme=buefy" />
-</a>
-<a href="https://github.com/gloriaghe/laravel-boolpress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-boolpress&theme=buefy" />
 </a>
 
 <a href="https://github.com/gloriaghe/laravel-boolpress">
@@ -39,7 +35,6 @@ const gloria = {
 <a href="https://github.com/gloriaghe/htmlcss-playstation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=htmlcss-playstation&theme=buefy&theme=buefy&theme=buefy" />
 </a>
-
 
 <a href="https://github.com/gloriaghe/laravel-comics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-comics&theme=buefy" />

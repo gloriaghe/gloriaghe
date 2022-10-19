@@ -22,13 +22,18 @@ const gloria = {
 
 #### Top Repositories
 <a href="(https://github.com/capdavide278/Deliveboo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo" />
 </a>
 <a href="https://github.com/gloriaghe/html-css-spotifyweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb" />
 </a>
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy)](https://github.com/capdavide278/Deliveboo)
 

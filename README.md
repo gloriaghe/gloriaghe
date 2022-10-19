@@ -27,7 +27,7 @@ const gloria = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=spotifyweb&theme=buefy" />
 </a>
 <a href="https://github.com/capdavide278/Deliveboo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy&show_owner=true" />
 </a>
 <a href="https://github.com/gloriaghe/laravel-boolpress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-boolpress&theme=buefy" />

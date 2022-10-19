@@ -40,6 +40,7 @@ const gloria = {
 
 
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy)](https://github.com/capdavide278/Deliveboo)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb&theme=buefy)](https://github.com/gloriaghe/html-css-spotifyweb)

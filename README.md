@@ -39,6 +39,12 @@ const gloria = {
 </a>
 
 
+<a href="https://github.com/gloriaghe/laravel-comics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-comics&theme=buefy" />
+</a>
+<a href="username=gloriaghe&repo=htmlcss-discord&theme=buefy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=htmlcss-discord&theme=buefy" />
+</a>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy)](https://github.com/capdavide278/Deliveboo)
@@ -51,5 +57,5 @@ const gloria = {
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-comics&theme=buefy)](https://github.com/gloriaghe/laravel-comics)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=htmlcss-discord&theme=buefy)](https://github.com/gloriaghe/htmlcss-discord)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=htmlcss-discord&theme=buefy)](username=gloriaghe&repo=htmlcss-discord&theme=buefy)
 

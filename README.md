@@ -22,4 +22,4 @@ const gloria = {
 
 #### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo)](https://github.com/capdavide278/Deliveboo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy)](https://github.com/capdavide278/Deliveboo)

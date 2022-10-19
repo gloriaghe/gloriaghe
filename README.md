@@ -28,6 +28,7 @@ const gloria = {
 <a href="https://github.com/gloriaghe/html-css-spotifyweb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb" />
 </a>
+
 <a href="https://github.com/gloriaghe/laravel-boolpress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-boolpress" />
 </a>

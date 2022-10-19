@@ -1,5 +1,5 @@
 <h2> Hi, I'm Gloria Gherardi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://png.pngtree.com/png-vector/20210906/ourmid/pngtree-e-learning-programmer-with-a-female-character-sitting-and-carrying-computer-png-image_3843626.jpg" width="230">
+<img align='right' src="[https://png.pngtree.com/png-vector/20210906/ourmid/pngtree-e-learning-programmer-with-a-female-character-sitting-and-carrying-computer-png-image_3843626.jpg](https://static.vecteezy.com/system/resources/previews/000/229/542/original/young-caucasian-woman-as-female-developer-profession-vector.jpg)" width="230">
 <p><em>Junior Full Stack Web Developer at <a href="https://boolean.careers/">Boolean Careers</a>
 </em></p>
 

@@ -29,9 +29,6 @@ const gloria = {
 <a href="https://github.com/capdavide278/Deliveboo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy&show_owner=true" />
 </a>
-<a href="https://github.com/gloriaghe/laravel-boolpress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-boolpress&theme=buefy" />
-</a>
 <a href="https://github.com/gloriaghe/playstation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=playstation&theme=buefy" />
 </a>
@@ -43,4 +40,7 @@ const gloria = {
 </a>
 <a href="https://github.com/gloriaghe/discord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=discord&theme=buefy" />
+</a>
+<a href="https://github.com/gloriaghe/laravel-boolpress">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-boolpress&theme=buefy" />
 </a>

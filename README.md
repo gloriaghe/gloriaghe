@@ -18,12 +18,19 @@ const gloria = {
  }
  ```
 
-![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&theme=synthwave)
+![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&theme=buefy)
 
 #### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=synthwave)](https://github.com/capdavide278/Deliveboo)
+(https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy)](https://github.com/capdavide278/Deliveboo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb&theme=synthwave)](https://github.com/gloriaghe/html-css-spotifyweb)
+(https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb&theme=buefy)](https://github.com/gloriaghe/html-css-spotifyweb)
 
+(https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-boolpress&theme=buefy)](https://github.com/gloriaghe/laravel-boolpress)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=htmlcss-playstation&theme=buefy)](https://github.com/gloriaghe/htmlcss-playstation)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-comics&theme=buefy)](https://github.com/gloriaghe/laravel-comics)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=htmlcss-discord&theme=buefy)](https://github.com/gloriaghe/htmlcss-discord)
 

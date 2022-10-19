@@ -18,4 +18,4 @@ const gloria = {
  }
  ```
 
- ![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&theme=gruvbox)
+ ![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&theme=synthwave)

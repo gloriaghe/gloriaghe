@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-gloriagherardi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gloria-gherardi//)](https://www.linkedin.com/in/gloria-gherardi//)
+[![Linkedin: gloriagherardi](https://img.shields.io/badge/-gloriagherardi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gloria-gherardi//)](https://www.linkedin.com/in/gloria-gherardi//)
 
 
 ### A little more about me...  

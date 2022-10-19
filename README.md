@@ -18,4 +18,8 @@ const gloria = {
  }
  ```
 
- ![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&theme=synthwave)
+![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&theme=synthwave)
+
+#### Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=capdavide278/Deliveboo)](https://github.com/anuraghazra/github-readme-stats)

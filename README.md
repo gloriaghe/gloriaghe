@@ -1,4 +1,4 @@
-<h2 style="color:pink;"> Hi, I'm Gloria Gherardi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2"> Hi, I'm Gloria Gherardi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://static.vecteezy.com/system/resources/previews/000/229/542/original/young-caucasian-woman-as-female-developer-profession-vector.jpg" width="250">
 <p><em>Junior Full Stack Web Developer at <a href="https://boolean.careers/">Boolean Careers</a>
 </em></p>
@@ -21,19 +21,19 @@ const gloria = {
 ![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriaghe&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Top Repositories
+### Top Repositories
 
 <a href="https://github.com/capdavide278/Deliveboo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_owner=true" />
 </a>
 <a href="https://github.com/gloriaghe/boolpress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=boolpress&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=boolpress&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/gloriaghe/spotifyweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=spotifyweb&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=spotifyweb&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/gloriaghe/laravel-Comics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-Comics&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-Comics&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/gloriaghe/playstation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=playstation&theme=buefy" />

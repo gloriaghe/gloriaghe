@@ -35,10 +35,8 @@ const gloria = {
 <a href="https://github.com/gloriaghe/playstation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=playstation&theme=buefy" />
 </a>
-
-
-<a href="https://github.com/gloriaghe/laravel-comics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-comics&theme=buefy" />
+<a href="https://github.com/gloriaghe/laravel-Comics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-Comics&theme=buefy" />
 </a>
 <a href="https://github.com/gloriaghe/vue-boolzapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=vue-boolzapp&theme=buefy" />

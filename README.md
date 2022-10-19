@@ -22,13 +22,13 @@ const gloria = {
 
 #### Top Repositories
 
-<a href="(https://github.com/capdavide278/Deliveboo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo" />
-</a>
+
 <a href="https://github.com/gloriaghe/html-css-spotifyweb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb" />
 </a>
-
+<a href="(https://github.com/capdavide278/Deliveboo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo" />
+</a>
 <a href="https://github.com/gloriaghe/laravel-boolpress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-boolpress" />
 </a>

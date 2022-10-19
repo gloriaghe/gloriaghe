@@ -18,6 +18,5 @@ const gloria = {
  }
  ```
 
- [![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe)](https://github.com/anuraghazra/github-readme-stats)
-
  ![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&show_icons=true)

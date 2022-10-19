@@ -1,4 +1,4 @@
-<h2 style="bg_color:30,e96443,904e95"> Hi, I'm Gloria Gherardi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 style="color:pink"> Hi, I'm Gloria Gherardi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://static.vecteezy.com/system/resources/previews/000/229/542/original/young-caucasian-woman-as-female-developer-profession-vector.jpg" width="250">
 <p><em>Junior Full Stack Web Developer at <a href="https://boolean.careers/">Boolean Careers</a>
 </em></p>

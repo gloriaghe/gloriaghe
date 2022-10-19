@@ -32,8 +32,8 @@ const gloria = {
 <a href="https://github.com/gloriaghe/laravel-boolpress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=laravel-boolpress" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/gloriaghe/htmlcss-playstation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=htmlcss-playstation" />
 </a>
 
 

@@ -21,7 +21,16 @@ const gloria = {
 ![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&theme=buefy)
 
 #### Top Repositories
+<a href="(https://github.com/capdavide278/Deliveboo">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy](https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy)" />
+</a>
 
+<a href="(https://github.com/capdavide278/Deliveboo">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy](https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy)" />
+</a>
+<a href="(https://github.com/capdavide278/Deliveboo">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy](https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy)" />
+</a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy)](https://github.com/capdavide278/Deliveboo)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb&theme=buefy)](https://github.com/gloriaghe/html-css-spotifyweb)

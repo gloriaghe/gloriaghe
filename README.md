@@ -23,9 +23,7 @@ const gloria = {
 #### Top Repositories
 
 
-<a href="https://github.com/gloriaghe/html-css-spotifyweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb" />
-</a>
+
 <a href="(https://github.com/capdavide278/Deliveboo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo" />
 </a>
@@ -35,7 +33,9 @@ const gloria = {
 <a href="https://github.com/gloriaghe/htmlcss-playstation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=htmlcss-playstation" />
 </a>
-
+<a href="https://github.com/gloriaghe/html-css-spotifyweb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=html-css-spotifyweb" />
+</a>
 
 
 

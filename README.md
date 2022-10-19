@@ -17,3 +17,5 @@ const gloria = {
   databases: [ MySQL]
  }
  ```
+
+ [![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe)](https://github.com/anuraghazra/github-readme-stats)

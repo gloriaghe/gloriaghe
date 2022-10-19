@@ -18,13 +18,13 @@ const gloria = {
  }
  ```
 
-![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriaghe&langs_count=8&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriaghe&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top Repositories
 
 <a href="https://github.com/capdavide278/Deliveboo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=capdavide278&repo=Deliveboo&theme=buefy&show_owner=true" />
 </a>
 <a href="https://github.com/gloriaghe/boolpress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=boolpress&theme=buefy" />

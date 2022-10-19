@@ -19,6 +19,7 @@ const gloria = {
  ```
 
 ![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriaghe&count_private=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriaghe&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top Repositories
 

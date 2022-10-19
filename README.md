@@ -41,6 +41,6 @@ const gloria = {
 <a href="https://github.com/gloriaghe/vue-boolzapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=vue-boolzapp&theme=buefy" />
 </a>
-<a href="https://github.com/gloriaghe/htmlcss-discord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=htmlcss-discord&theme=buefy" />
+<a href="https://github.com/gloriaghe/discord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=discord&theme=buefy" />
 </a>

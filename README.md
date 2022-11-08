@@ -12,7 +12,7 @@
 ```javascript
 const gloria = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML5, CSS, PHP, C#],
+  code: [Javascript, HTML5, CSS, C#, PHP],
   framework : [Vue.js, Laravel, Bootstrap],
   databases: [ MySQL]
  }

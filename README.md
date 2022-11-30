@@ -26,7 +26,7 @@ const gloria = {
 ### Top Repositories
 
 <a href="https://github.com/gloriaghe/Deliveboo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=Deliveboo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=Deliveboo/>
 </a>
 <a href="https://github.com/gloriaghe/boolpress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gloriaghe&repo=boolpress&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />

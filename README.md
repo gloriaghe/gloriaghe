@@ -28,7 +28,7 @@ const gloria = {
  <p><em><a href="https://github.com/gloriaghe/playstation">- Playstation</a> => "Homepage Playstation web con Bootstrap5 (HTML5 e CSS), completamente responsive."
  <p><em><a href="https://github.com/gloriaghe/vue-boolzapp">- Boolzapp</a> => "Applicazione Pc simil Whatsapp rifatta con l'utilizzo di Vue, Bootstrap5 e javascript per ricezione messaggi fake."
  <p><em><a href="https://github.com/gloriaghe/discord">- Discord</a> => "Rifacimento parte frontend Homepage Discord con HTML5 e CSS."
- <p><em><a href="https://github.com/gloriaghe/la-mia-pizzeria-crud-webapi">- Pizzeria .Net</a> => "Sito web di una pizzeria in .Net e C# in cui creare, editare, cancellare e vedere le pizze da parte dell'admin e parte guest (tramite richieste API) in cui vedere, cercare le pizze e contattare l'admin."
+ <p><em><a href="https://github.com/gloriaghe/la-mia-pizzeria-crud-webapi">- Pizzeria .Net</a> => "Sito web di una pizzeria in .Net e C# in cui creare, editare, cancellare e vedere le pizze da parte dell'admin. E parte guest (tramite richieste API) in cui vedere, cercare le pizze e contattare l'admin."
 
 
 

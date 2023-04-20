@@ -15,7 +15,7 @@
 const gloria = {
   pronouns: "she" | "her",
   code: ["Javascript", "HTML5", "CSS", "C#", "PHP"],
-  framework : ["Vue.js", "Laravel", "Bootstrap"],
+  framework : ["CakePHP", "Vue.js", "Laravel", "Bootstrap"],
   databases: [ "MySQL"]
  }
  ```
